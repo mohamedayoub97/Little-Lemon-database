@@ -1,0 +1,37 @@
+menu_name,cuisine,starter,course,dessert,drink,side
+Athens_1,Greek,Olives,Greek salad,Greek yoghurt,Athens White wine,Tapas
+Athens_2,Greek,Flatbread,Greek salad,Greek yoghurt,Athens White wine,Tapas
+Athens_3,Greek,Minestrone,Greek salad,Greek yoghurt,Athens White wine,Tapas
+Athens_4,Greek,Tomato bread,Greek salad,Greek yoghurt,Athens White wine,Tapas
+Athens_5,Greek,Falafel,Greek salad,Greek yoghurt,Athens White wine,Tapas
+Athens_6,Greek,Hummus,Greek salad,Greek yoghurt,Athens White wine,Tapas
+Corfu_1,Greek,Olives,Bean soup,Ice cream,Corfu Red Wine,Meatballs
+Corfu_2,Greek,Flatbread,Bean soup,Ice cream,Corfu Red Wine,Meatballs
+Corfu_3,Greek,Minestrone,Bean soup,Ice cream,Corfu Red Wine,Meatballs
+Corfu_4,Greek,Tomato bread,Bean soup,Ice cream,Corfu Red Wine,Meatballs
+Corfu_5,Greek,Falafel,Bean soup,Ice cream,Corfu Red Wine,Meatballs
+Corfu_6,Greek,Hummus,Bean soup,Ice cream,Corfu Red Wine,Meatballs
+Roma_1,Italian,Olives,Pizza,Affogato,Roma Red wine,Bruschetta
+Roma_2,Italian,Flatbread,Pizza,Affogato,Roma Red wine,Bruschetta
+Roma_3,Italian,Minestrone,Pizza,Affogato,Roma Red wine,Bruschetta
+Roma_4,Italian,Tomato bread,Pizza,Affogato,Roma Red wine,Bruschetta
+Roma_5,Italian,Falafel,Pizza,Affogato,Roma Red wine,Bruschetta
+Roma_6,Italian,Hummus,Pizza,Affogato,Roma Red wine,Bruschetta
+Palermo_1,Italian,Olives,Carbonara,Cheesecake,Italian Coffee,Focaccia
+Palermo_2,Italian,Flatbread,Carbonara,Cheesecake,Italian Coffee,Focaccia
+Palermo_3,Italian,Minestrone,Carbonara,Cheesecake,Italian Coffee,Focaccia
+Palermo_4,Italian,Tomato bread,Carbonara,Cheesecake,Italian Coffee,Focaccia
+Palermo_5,Italian,Falafel,Carbonara,Cheesecake,Italian Coffee,Focaccia
+Palermo_6,Italian,Hummus,Carbonara,Cheesecake,Italian Coffee,Focaccia
+Kusadasi_1,Turkish,Olives,Kabasa,Baklava,Turkish Coffee,Potato salad
+Kusadasi_2,Turkish,Flatbread,Kabasa,Baklava,Turkish Coffee,Potato salad
+Kusadasi_3,Turkish,Minestrone,Kabasa,Baklava,Turkish Coffee,Potato salad
+Kusadasi_4,Turkish,Tomato bread,Kabasa,Baklava,Turkish Coffee,Potato salad
+Kusadasi_5,Turkish,Falafel,Kabasa,Baklava,Turkish Coffee,Potato salad
+Kusadasi_6,Turkish,Hummus,Kabasa,Baklava,Turkish Coffee,Potato salad
+Ankara_1,Turkish,Olives,Shwarma,Turkish yoghurt,Ankara White Wine,Fries
+Ankara_2,Turkish,Flatbread,Shwarma,Turkish yoghurt,Ankara White Wine,Fries
+Ankara_3,Turkish,Minestrone,Shwarma,Turkish yoghurt,Ankara White Wine,Fries
+Ankara_4,Turkish,Tomato bread,Shwarma,Turkish yoghurt,Ankara White Wine,Fries
+Ankara_5,Turkish,Falafel,Shwarma,Turkish yoghurt,Ankara White Wine,Fries
+Ankara_6,Turkish,Hummus,Shwarma,Turkish yoghurt,Ankara White Wine,Fries

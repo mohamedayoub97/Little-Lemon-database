@@ -1,0 +1,7 @@
+staff_id,staff_first_name,staff_last_name,staff_role,staff_salary
+1,Mario,Gollini,Manager,70000
+2,Adrian,Gollini,Assistant Manager,65000
+3,Giorgos,Dioudis,Head Chef,50000
+4,Fatma,Kaya,Assistant Chef,45000
+5,Elena,Salvai,Head Waiter,40000
+6,John,Millar,Receptionist,35000
